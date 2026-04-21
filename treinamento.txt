@@ -1,1 +1,4 @@
 Fazendo a primeira modificação no arquivo.
+Adicionei mais esta linha para treinar o commit.
+Add mais a terceira
+e quarta linha no arquivo local.
